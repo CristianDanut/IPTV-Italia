@@ -9,7 +9,7 @@ Apri [**questo link**](https://github.com/Tundrak/IPTV-Italia/releases) e scaric
 **Alternativo**: copia gli indirizzi nella tabella sotto e incollali nella finestra "Apri flusso di rete" o "Apri URL" del tuo player per avere sempre le playlist più aggiornate senza dover mai scaricare nuovi file.
 (**iptvitaplus** contiene tutti i canali in iptvita, e inoltre include loghi e gruppi per i lettori più avanzati)
 
-|    **iptvita.m3u**  |   https://github.com/Tundrak/IPTV-Italia/raw/main/iptvita.m3u    |
+|    **iptvita.m3u**  |   https://github.com/Tundrak/IPTV-Romania/raw/main/iptvita.m3u    |
 |--------------------:|:----------------------------------------------------------------:|
 | **iptvitaplus.m3u** | https://github.com/Tundrak/IPTV-Italia/raw/main/iptvitaplus.m3u  |
 | **ipradioita.m3u**  |  https://github.com/Tundrak/IPTV-Italia/raw/main/ipradioita.m3u  |
